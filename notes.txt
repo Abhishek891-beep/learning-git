@@ -1,0 +1,10 @@
+GIT DIFF
+-- compare with staging 
+-- informative command
+
+how to read DIFF
+a -> file1 and b -> file2 (same file over time)
+--- file1
++++ file2
+changes in lines and little preview of it 
+
