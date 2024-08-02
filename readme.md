@@ -1,6 +1,6 @@
 # Learn about git nd github
 
-subscribe to me on youtube
+dont go anywhere , just fkin code.
 
 ```
 
